@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akif-demir
-- 👀 I’m interested in Data Scientist, ML, Data Engineering , Big Data
-- 🌱 I’m currently learning Data Scientist, ML, Data Engineering , Big Data
-- 💞️ I’m looking to collaborate on Data Scientist, ML, Data Engineering , Big Data
+- 👀 I’m interested in Data Scientist, ML, Data Engineering , Big Data, MLOPS
+- 🌱 I’m currently learning Data Scientist, ML, Data Engineering , Big Data, MLOPS
+- 💞️ I’m looking to collaborate on Data Scientist, ML, Data Engineering , Big Data, MLOPS
 - 📫 How to reach me demirakif79@gmail.com
 
 <!---
